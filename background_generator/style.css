@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(to right,#7b4397,#185a9d);
+    text-align:center;
+}
+
+h1{
+    color:white;
+    text-transform: uppercase;
+    font:'Raleway',sans-serif;
+    text-align: center;
+    letter-spacing: .5rem;
+    top:15%;
+} 
+
+h3{
+    text-align:center;
+    left:15%;
+    font:'Raleway',sans-serif;
+    letter-spacing: .2rem;
+    color:white;
+}
+
